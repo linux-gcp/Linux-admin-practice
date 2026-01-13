@@ -1,0 +1,11 @@
+check service status
+- systemctl status sshd
+
+start/stop/restart
+-systemctl start sshd
+-systemctl stop sshd
+-systemctl restart sshd
+
+Enable/Diable at boot
+-syatemctl enable sshd
+-systemctl disable sshd
