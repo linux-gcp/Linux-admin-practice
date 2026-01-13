@@ -1,0 +1,14 @@
+Day 2: Users and Permissions
+
+Commands practiced:
+- useradd devuser
+- passwd devuser
+- id devuser
+- chmod 600 file1
+- chmod 644 file2 
+- chmod devuser:devuser file1
+
+Concepts learned 
+- Owner vs Group vs Others
+- Read, write, Execute permissions
+- Least privilege principle
